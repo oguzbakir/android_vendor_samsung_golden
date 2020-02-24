@@ -569,3 +569,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/golden/proprietary/lib/libwvdrm_L3.so:system/lib/libwvdrm_L3.so \
     vendor/samsung/golden/proprietary/lib/libwvm.so:system/lib/libwvm.so \
     vendor/samsung/golden/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so
+
+# libstlport
+PRODUCT_COPY_FILES += \
+    vendor/samsung/golden/proprietary/lib/libstlport.so:system/lib/libstlport.so \
+
